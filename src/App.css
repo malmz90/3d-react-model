@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  color: blue;
+  display: flex;
+  align-content: center;
+  justify-self: center;
+  text-align: center;
+}
